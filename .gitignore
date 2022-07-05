@@ -1,0 +1,45 @@
+# Project exclude paths
+/venv/
+prod_settings.py
+local_settings.py
+# created by virtualenv automatically
+#.idea local_settings.py
+#idea prod_settings.py
+#.DB_Store
+#
+#.idea/
+#
+#*.egg-info/
+#.installed.cfg
+#.*egg
+#*.sqlite3
+#dist
+#db.sqlite3
+#
+#venv
+#
+#**/migrations/**
+#!**/migrations
+#!**/migrations/__init__.py
+#*backend/*/migrations/*
+#!*backend/*/migrations
+#!*backend/*/migrations/__init__.py
+#
+#__pycache__/
+#*/__pycache__/
+#*.py[cod]
+#.pyc
+#*.pyc
+#
+#media/*
+#!*media
+#
+#log/debug.log
+#
+#build
+#doc
+#home.rst
+#make.bat
+#Makefile
+#
+#doc-dev
