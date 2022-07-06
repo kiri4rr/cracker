@@ -2,6 +2,7 @@
 /venv/
 prod_settings.py
 local_settings.py
+.idea/
 # created by virtualenv automatically
 #.idea local_settings.py
 #idea prod_settings.py
